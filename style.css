@@ -264,13 +264,10 @@ section.portfolio .flex{
     font-size: 24px;
     font-weight: 600;
     color: #fff;
-    opacity: 0;
-    transition: .5s;
+    
 }
 
-.overlay:hover{
-    opacity: 1;
-}
+
 
 section.formulario{
     padding: 80px 4%;
